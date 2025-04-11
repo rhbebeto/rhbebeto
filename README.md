@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Roberto Henrique Duarte, mais conhecido como Bebeto!
+# <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DevTo-Dark.svg" title="Git" alt="Git" width="60px"/> Roberto Henrique Duarte, mais conhecido como Bebeto!
 
 **`Desenvolvedor BackEnd`**
 
@@ -30,12 +30,12 @@
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=rhbebeto&show_icons=true&theme=synthwave&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=rhbebeto&show_icons=true&theme=dark&locale=pt-br" 
   />
   <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhbebeto&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhbebeto&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
