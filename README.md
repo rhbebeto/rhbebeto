@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-- Me chamo Roberto Henrique, tenho 19 anos. ☝️  
+- Me chamo Roberto Henrique, tenho 20 anos. ☝️  
 - Atualmente curso Sistemas de Informação na Universidade do Estado de Minas Gerais e sou apaixonado por tecnologia. 🤓📚  
 - No momento, atuo como estagiário em análise de TI. ✅  
 - Meu grande objetivo é ser um desenvolvedor, com foco em backend. 💻  
