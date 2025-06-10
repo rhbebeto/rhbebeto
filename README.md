@@ -5,7 +5,6 @@
 - Me chamo Roberto Henrique, tenho 20 anos e moro em Passos-MG. ☝️  
 - Atualmente curso Sistemas de Informação na Universidade do Estado de Minas Gerais e sou apaixonado por tecnologia. 🤓📚  
 - AWS Cloud Data Engineering Intern✅  
-- Meu grande objetivo é ser um desenvolvedor, com foco em backend. 💻  
 - Meu email para contato é: robertohenriqueduarte05@gmail.com 📩  
 
 ---
