@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DevTo-Dark.svg" title="Git" alt="Git" width="25px"/> Roberto Henrique Duarte, mais conhecido como Bebeto!
 
-**`Desenvolvedor BackEnd`**
+**`Data Engineering`**
 
 - Me chamo Roberto Henrique, tenho 20 anos e moro em Passos-MG. ☝️  
 - Atualmente curso Sistemas de Informação na Universidade do Estado de Minas Gerais e sou apaixonado por tecnologia. 🤓📚  
